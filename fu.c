@@ -92,7 +92,7 @@ int main()
 	int m = 1;
 	while (m<20)
 	{
-		printf("%d\n", test4(m));
+	printf("%d\n", test4(m));
 		m++;
 	}
 	return 0;
